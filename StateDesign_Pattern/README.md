@@ -113,5 +113,5 @@ public class AccountTest(){
 ## Unified Modeling Language (UML) Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/StateDesignPattern-BankAccount/assets/127215110/20649e85-3082-4224-8253-d9b6050aaaf9"/>
+    <img src="image-1.png" alt="Centered Image" />
 </p>

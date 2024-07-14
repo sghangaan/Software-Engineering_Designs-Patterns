@@ -33,6 +33,7 @@ Implement solution using the Builder Pattern to address the issue.
 </p>
 
 ##  Unified Modeling Language (UML) Class Diagram
+
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Builder-Pattern/assets/127215110/ea53c3f3-8050-4ad2-b265-4e40c30c64ee"/>
+    <img src="image.png" alt="Centered Image" />
 </p>

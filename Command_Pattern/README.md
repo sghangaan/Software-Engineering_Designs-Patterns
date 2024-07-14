@@ -19,6 +19,5 @@ Your challenge is to apply a design pattern that provides a flexible and scalabl
     <img src="sample output.png" alt="Centered Image" />
 </p>
 
-## Unified Modeling Language (UML) Class Diagram
-![Command Design Pattern UML](https://github.com/SG-Hangaan/commandPattern/assets/127215110/483a64ae-30e8-4714-be47-4efe724fc83a)
+
 

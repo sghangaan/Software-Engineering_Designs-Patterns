@@ -23,6 +23,5 @@ To adhere to the Dependency Inversion Principle (DIP) and ensure flexibility for
 ## Unified Modeling Language (UML) Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/SOLID-WithDesignPattern/assets/127215110/022bdc26-ba4d-42d9-ac5f-a1810a80b314"/>
+    <img src="image-1.png" alt="Centered Image" /><br>
 </p>
-

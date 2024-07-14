@@ -24,4 +24,7 @@ You are developing an application that helps users manage and control various el
 
 
 ## Unified Modeling Language (UML) Class Diagram
-![AdaptPattern_Hangaan](https://github.com/SG-Hangaan/AdapterPattern/assets/127215110/80031fa9-8a21-4fe9-be64-967c615711cc)
+
+<p align="center">
+    <img src="image.png" alt="Centered Image" />
+</p>

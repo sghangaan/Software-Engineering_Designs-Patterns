@@ -44,6 +44,7 @@ Implement a visitor design pattern approach:
 </p>
 
 ## Unified Modeling Language (UML) Class Diagram
+
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Visitor-Pattern/assets/127215110/033b03fd-892d-4bb4-8eec-24e86817df6d"/>
+    <img src="image-1.png" alt="Centered Image" />
 </p>

@@ -67,6 +67,5 @@ public class Character {
 ## Unified Modeling Language (UML) Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Strategy-Pattern/assets/127215110/ca12773d-ec5c-4273-bcc1-8242ffba70d7"/>
+    <img src="image-1.png" alt="Centered Image" />
 </p>
-

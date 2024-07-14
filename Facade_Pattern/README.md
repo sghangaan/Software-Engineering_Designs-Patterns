@@ -25,8 +25,5 @@ The HotelApp needs to manage various hotel services for guest check-in and check
 ## Unified Modeling Language (UML) Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/FacadePattern/assets/127215110/9e857536-d47b-48a9-be60-5ab91b2db340"/>
-</p> 
-
-
-
+     <img src="image-2.png" alt="Centered Image" />
+</p>

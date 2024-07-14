@@ -17,13 +17,12 @@ The content of your Cimb.java should ONLY contain the following codes with the e
 ----------------------------------------------------------------------------------------------------------------------------------
 <br> 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/e7d9ddb8-fd4e-42d7-8a2b-d0e38ce376ff"/>
+  <img src="image-2.png" alt="Centered Image" />
 </p>
-
 
 <p align="center">
   You should display the following output: <br> <br> 
-  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/3b5fb13e-6d26-4ccb-a606-631776b6a441"/>
+  <img src="image-3.png" alt="Centered Image" />
 </p>
 
 **Description of the following methods**
@@ -50,5 +49,7 @@ Follow instructions. You are not allowed to insert other methods except what is 
 
 
 ## Unified Modeling Language (UML) Class Diagram
-  <img src="https://github.com/SG-Hangaan/decoratorPattern/assets/127215110/779030cf-3961-4aeb-a269-993c8faed705"/>
+
+<p align="center">
+    <img src="image-1.png" alt="Centered Image" />
 </p>

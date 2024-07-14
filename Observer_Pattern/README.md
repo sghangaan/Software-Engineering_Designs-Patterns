@@ -43,9 +43,7 @@ A design pattern used in software engineering to establish a one-to-many depende
 </p>
 
 ## Unified Modeling Language (UML) Class Diagram
+
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/Observer-pattern/assets/127215110/956d8e8f-4d57-4226-9888-79d9d3053e16"/>
+    <img src="image-1.png" alt="Centered Image" /><br>
 </p>
-
-
-

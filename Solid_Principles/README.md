@@ -94,5 +94,5 @@ public class OrderTest {
 ## Unified Modeling Language (UML) Class Diagram
 
 <p align="center">
-  <img src="https://github.com/SG-Hangaan/SOLID-Principles/assets/127215110/8034080d-7f96-45ab-bb58-02dce1ccec5d"/>
+    <img src="image-1.png" alt="Centered Image" /><br>
 </p>
