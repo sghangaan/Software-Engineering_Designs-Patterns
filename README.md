@@ -4,8 +4,11 @@
 This repository showcases the implementation of various design patterns and principles in Java, along with problem scenarios and UML diagrams for each pattern.
 
 <p align="center">
-    <img src="overview.png" alt="Centered Image" /><br>
+  <img src="https://github.com/SG-Hangaan/Software-Engineering_Designs-Patterns/blob/main/Overview.png?raw=true"/>
 </p>
+
+
+
 
 
 # Design Patterns and Principles
